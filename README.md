@@ -15,9 +15,9 @@
 
 ### ОТВЕТ:
 
-![Скриншот-1](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_1.png)
-![Скриншот-2](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_2.png)
-![Скриншот-3](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_3.png)
+![Скриншот-1](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_1.png)
+![Скриншот-2](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_2.png)
+![Скриншот-3](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_3.png)
 ---
 
 ### Задание 2
@@ -31,9 +31,9 @@
 
 ### ОТВЕТ:
 
-![Скриншот-4](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_4.png)
-![Скриншот-5](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_5.png)
-![Скриншот-6](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_6.png)
+![Скриншот-4](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_4.png)
+![Скриншот-5](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_5.png)
+![Скриншот-6](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_6.png)
 
 ---
 
@@ -50,21 +50,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-7](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_7.png)
-![Скриншот-8](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_8.png)
-![Скриншот-9](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_9.png)
-![Скриншот-10](https://github.com/Monooks/8-02_NetoHW/blob/main/img/8.02_10.png)
----
-## Дополнительные задания* (со звёздочкой)
-
-Их выполнение необязательное и не влияет на получение зачёта по домашнему заданию. Можете их решить, если хотите лучше разобраться в материале.
-
----
-
-### Задание 4*
-
-Придумайте способ версионировать приложение, чтобы каждый следующий запуск сборки присваивал имени файла новую версию. Таким образом, в репозитории Nexus будет храниться история релизов.
-
-Подсказка: используйте переменную BUILD_NUMBER.
-
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![Скриншот-7](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_7.png)
+![Скриншот-8](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_8.png)
+![Скриншот-9](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_9.png)
+![Скриншот-10](https://github.com/George210890/-DevOps.-I-D-/blob/main/8.02_10.png)
